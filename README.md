@@ -1,5 +1,5 @@
 <div align="center">
-<h1>InstantID-Plus: Zero-shot Identity-Preserving Generation in Seconds</h1>
+<h1>InstantID-Plus</h1>
 </div>
 
 
