@@ -7,6 +7,6 @@ InstantID-Plus is a new state-of-the-art tuning-free method to achieve ID-Preser
 
 大幂幂 | 小公主
 :-------------------------:|:-------------------------:
-<img src="./data/yangmi.jpg" width = "300" /> | <img src="./data/res_yangmi.jpg" width = "300" /> 
+<img src="./data/yangmi.jpg" width = "400" /> | <img src="./data/res_yangmi.jpg" width = "400" /> 
 
 
