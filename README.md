@@ -7,3 +7,7 @@ InstantID-Plus is a new state-of-the-art tuning-free method to achieve ID-Preser
 
 
 <img src='data/res_yangmi.jpg'>
+
+:-------------------------:|:-------------------------:
+![img](data/yangmi.jpg)  |  ![img](data/res_yangmi.jpg)
+
