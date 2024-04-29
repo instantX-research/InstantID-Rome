@@ -6,7 +6,7 @@ When in Rome, do as the Romans do.
 
 
 <div align="center">
-<img src="./data/res_yangmi.jpg" width = "500" />
+<img src="./data/res_yangmi.jpg" width = "450" />
 </div>
 
 
@@ -20,7 +20,7 @@ When in Rome, do as the Romans do.
 
 | ID | style + ' a prince wearing headphones and a red and glod armor, reading a book and sitting on bench in front of Eiffel Tower'  |
 |:-------------------------:|:-------------------------:|
-<img src="./data/my.png" width = "134" /> | <img src="./data/my_longprompt.jpg" width = "550" /> 
+<img src="./data/my.png" width = "134" /> | <img src="./data/my_longprompt_1.jpg" width = "300" />  <img src="./data/my_longprompt_2.jpg" width = "300" /> 
 
 
 ## Higher consistency
