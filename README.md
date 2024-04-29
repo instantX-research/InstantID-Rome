@@ -16,9 +16,9 @@ When in Rome, do as the Romans do.
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 <img src="./data/my.png" width = "100" /> | <img src="./data/my_sunglasses.jpg" width = "150" /> | <img src="./data/my_girl.jpg" width = "150" /> | <img src="./data/my_young.jpg" width = "150" /> | <img src="./data/my_old.jpg" width = "150" />
 
-| ID | + 'a prince wearing a headphones and a red Armor, read a book and sitting in front of bench in front of Eiffel Tower' <font color="red">这段文字是红色的</font> | 
+| ID | + 'a prince wearing a headphones and a red Armor, read a book and sitting in front of bench in front of Eiffel Tower' $\color{red}{红色字}$ | 
 |:-------------------------:|:-------------------------:|
-<img src="./data/my.png" width = "100" /> | <img src="./data/my_sunglasses.jpg" width = "600" /> |
+<img src="./data/my.png" width = "100" /> | <img src="./data/my_sunglasses.jpg" height = "600" /> |
 
 
 ## Higher consistency
