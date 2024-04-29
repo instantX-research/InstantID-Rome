@@ -19,7 +19,6 @@ When in Rome, do as the Romans do.
 
 
 | ID | + ' a $\color{red}{prince}$ wearing '  |
-
 |:-------------------------:|:-------------------------:|
 
 <img src="./data/my.png" width = "100" /> | <img src="./data/my_longprompt.jpg" width = "700" /> |
