@@ -18,9 +18,9 @@ When in Rome, do as the Romans do.
 
 
 
-| ID | style + ' a prince wearing and a red and glod armor, reading a book and sitting on bench in front of Eiffel Tower'  |
+| ID | style + ' a prince wearing headphones and a red and glod armor, reading a book and sitting on bench in front of Eiffel Tower'  |
 |:-------------------------:|:-------------------------:|
-<img src="./data/my.png" width = "100" /> | <img src="./data/my_longprompt.jpg" width = "700" /> 
+<img src="./data/my.png" width = "100" /> | <img src="./data/my_longprompt.jpg" width = "550" /> 
 
 
 ## Higher consistency
