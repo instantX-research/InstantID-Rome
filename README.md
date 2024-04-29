@@ -16,8 +16,12 @@ When in Rome, do as the Romans do.
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 <img src="./data/my.png" width = "100" /> | <img src="./data/my_sunglasses.jpg" width = "150" /> | <img src="./data/my_girl.jpg" width = "150" /> | <img src="./data/my_young.jpg" width = "150" /> | <img src="./data/my_old.jpg" width = "150" />
 
+| ID | + 'a prince wearing a headphones and a red Armor, read a book and sitting in front of bench in front of Eiffel Tower' <font color="red">这段文字是红色的</font> | 
+|:-------------------------:|:-------------------------:|
+<img src="./data/my.png" width = "100" /> | <img src="./data/my_sunglasses.jpg" width = "600" /> |
 
-## Lower incongruity
+
+## Higher consistency
 | sunglasses | cap |
 |:-------------------------:|:-------------------------:|
 <img src="./data/fe342e172f4f79f0f18e0cfecbf86de27a6058e329240b4bfdb73fb5.jpg" width = "425" /> | <img src="./data/2b008e52c4a66093b4aa7697a38e7ab6b21a898dcb43dd75a088d6a6.jpg" width = "425" />
