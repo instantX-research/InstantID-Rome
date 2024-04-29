@@ -16,7 +16,7 @@ When in Rome, do as the Romans do.
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 <img src="./data/my.png" width = "100" /> | <img src="./data/my_sunglasses.jpg" width = "150" /> | <img src="./data/my_girl.jpg" width = "150" /> | <img src="./data/my_young.jpg" width = "150" /> | <img src="./data/my_old.jpg" width = "150" />
 
-| ID | +   | 
+| ID | + 'a $\color{red}{prince}$ wearing a $\color{red}{headphones}$ '  |
 |:-------------------------:|:-------------------------:|
 <img src="./data/my.png" width = "100" /> | <img src="./data/my_longprompt.jpg" width = "700" /> |
 
