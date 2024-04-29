@@ -1,7 +1,7 @@
 <div align="center">
 <h1>InstantID-Rome</h1>
 
-Supreme [**InstantID**](https://github.com/InstantID/InstantID). Indulge your slight fantasy 🤏 about Identity-Preserving Generation. 
+Supreme [**InstantID**](https://github.com/InstantID/InstantID). Indulge your slight fantasy about Identity-Preserving Generation. 
 
 </div>
 
