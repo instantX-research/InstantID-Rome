@@ -2,7 +2,7 @@
 <h1>InstantID-Rome</h1>
 </div>
 
-When in Rome, do as the Romans do.
+Supreme [InstantID](https://github.com/InstantID/InstantID). When in Rome, do as the Romans do.
 
 
 <div align="center">
