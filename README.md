@@ -1,6 +1,8 @@
 <div align="center">
 <h1>InstantID-Rome</h1>
-Supreme [InstantID](https://github.com/InstantID/InstantID).
+
+Supreme [**InstantID**](https://github.com/InstantID/InstantID)
+
 </div>
 
 When in Rome, do as the Romans do.
