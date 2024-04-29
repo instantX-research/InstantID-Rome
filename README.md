@@ -17,6 +17,12 @@ When in Rome, do as the Romans do.
 <img src="./data/my.png" width = "100" /> | <img src="./data/my_sunglasses.jpg" width = "150" /> | <img src="./data/my_girl.jpg" width = "150" /> | <img src="./data/my_young.jpg" width = "150" /> | <img src="./data/my_old.jpg" width = "150" />
 
 
+## More Stable Layout
+|| style 1 | style 2 | style 3 | style 4 | style 5 | style 6 |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+T2I w/o ID |<img src="./data/t2i_1_raw.jpg" width = "100" /> |<img src="./data/t2i_2_raw.jpg" width = "100" /> |<img src="./data/t2i_3_raw.jpg" width = "100" /> |<img src="./data/t2i_4_raw.jpg" width = "100" /> |<img src="./data/t2i_5_raw.jpg" width = "100" /> |<img src="./data/t2i_6_raw.jpg" width = "100" /> |
+<img src="./data/djy.png" width = "100" /> | <img src="./data/t2i_1_id.jpg" width = "100" /> |<img src="./data/t2i_2_id.jpg" width = "100" /> |<img src="./data/t2i_3_id.jpg" width = "100" /> |<img src="./data/t2i_4_id.jpg" width = "100" /> |<img src="./data/t2i_5_id.jpg" width = "100" /> |<img src="./data/t2i_6_id.jpg" width = "100" /> |
+
 
 | ID | style + ' a prince wearing headphones and a red and glod armor, reading a book and sitting on bench in front of Eiffel Tower'  |
 |:-------------------------:|:-------------------------:|
@@ -31,11 +37,6 @@ When in Rome, do as the Romans do.
 <img src="./data/829d06193e5334e1036e1dd5a41b510848ef52225c49b2c7463e7215.jpg" width = "425" /> | <img src="./data/e1f454de3bfb8ece436cb4084837c0f8e1287b111f2819dd37ca9f92.jpg" width = "425" />
 
 
-## More Stable Layout
-|| style 1 | style 2 | style 3 | style 4 | style 5 | style 6 |
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-T2I w/o ID |<img src="./data/t2i_1_raw.jpg" width = "100" /> |<img src="./data/t2i_2_raw.jpg" width = "100" /> |<img src="./data/t2i_3_raw.jpg" width = "100" /> |<img src="./data/t2i_4_raw.jpg" width = "100" /> |<img src="./data/t2i_5_raw.jpg" width = "100" /> |<img src="./data/t2i_6_raw.jpg" width = "100" /> |
-<img src="./data/djy.png" width = "100" /> | <img src="./data/t2i_1_id.jpg" width = "100" /> |<img src="./data/t2i_2_id.jpg" width = "100" /> |<img src="./data/t2i_3_id.jpg" width = "100" /> |<img src="./data/t2i_4_id.jpg" width = "100" /> |<img src="./data/t2i_5_id.jpg" width = "100" /> |<img src="./data/t2i_6_id.jpg" width = "100" /> |
 
 
 coming ...
