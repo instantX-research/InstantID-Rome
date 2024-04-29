@@ -16,7 +16,7 @@ When in Rome, do as the Romans do.
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 <img src="./data/my.png" width = "100" /> | <img src="./data/my_sunglasses.jpg" width = "150" /> | <img src="./data/my_girl.jpg" width = "150" /> | <img src="./data/my_young.jpg" width = "150" /> | <img src="./data/my_old.jpg" width = "150" />
 
-| ID | + 'a $\color{red}{prince}$ wearing a $\color{red}{headphones}$ and a $\color{red}{red and glod armor}$, $\color{red}{reading a book}$ and $\color{red}{reading a book}$ sitting on bench in front of $\color{red}{Eiffel Tower}$'  | 
+| ID | +   | 
 |:-------------------------:|:-------------------------:|
 <img src="./data/my.png" width = "100" /> | <img src="./data/my_longprompt.jpg" width = "700" /> |
 
