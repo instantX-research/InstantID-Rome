@@ -20,8 +20,8 @@
 
 ## Stronger Editability
 | ID | + 'sunglasses' | + 'girl' | + 'young' | + 'old' | 
-|:-------------------------:|:-------------------------:|
-<img src="./data/my.png" width = "200" /> | <img src="./InstantID-Rome/data/my_sunglasses.jpg" width = "200" /> | <img src="./InstantID-Rome/data/my_girl.jpg" width = "200" /> | <img src="./InstantID-Rome/data/my_young.jpg" width = "200" /> | <img src="./InstantID-Rome/data/my_old.jpg" width = "200" />
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+<img src="./data/my.png" width = "200" /> | <img src="./data/my_sunglasses.jpg" width = "200" /> | <img src="./data/my_girl.jpg" width = "200" /> | <img src="./data/my_young.jpg" width = "200" /> | <img src="./data/my_old.jpg" width = "200" />
 
 
 coming ...
