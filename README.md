@@ -6,7 +6,7 @@ When in Rome, do as the Romans do.
 
 
 <div align="center">
-<img src="./data/res_yangmi.jpg" width = "450" />
+<img src="./data/res_yangmi.jpg" width = "400" />
 </div>
 
 
