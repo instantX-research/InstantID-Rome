@@ -21,7 +21,7 @@
 ## Stronger Editability
 | ID | + 'sunglasses' | + 'girl' | + 'young' | + 'old' | 
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-<img src="./data/my.png" width = "125" /> | <img src="./data/my_sunglasses.jpg" width = "125" /> | <img src="./data/my_girl.jpg" width = "125" /> | <img src="./data/my_young.jpg" width = "125" /> | <img src="./data/my_old.jpg" width = "125" />
+<img src="./data/my.png" width = "150" /> | <img src="./data/my_sunglasses.jpg" width = "125" /> | <img src="./data/my_girl.jpg" width = "125" /> | <img src="./data/my_young.jpg" width = "125" /> | <img src="./data/my_old.jpg" width = "125" />
 
 
 coming ...
