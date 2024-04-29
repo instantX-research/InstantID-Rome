@@ -17,16 +17,16 @@ When in Rome, do as the Romans do.
 <img src="./data/my.png" width = "100" /> | <img src="./data/my_sunglasses.jpg" width = "150" /> | <img src="./data/my_girl.jpg" width = "150" /> | <img src="./data/my_young.jpg" width = "150" /> | <img src="./data/my_old.jpg" width = "150" />
 
 
+| ID | style + ' a prince wearing headphones and a red and glod armor, reading a book and sitting on bench in front of Eiffel Tower'  |
+|:-------------------------:|:-------------------------:|
+<img src="./data/my.png" width = "134" /> | <img src="./data/my_longprompt_1.jpg" width = "326" />  <img src="./data/my_longprompt_2.jpg" width = "326" /> 
+
+
 ## More Stable Layout
 || style 1 | style 2 | style 3 | style 4 | style 5 | style 6 |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 T2I w/o ID |<img src="./data/t2i_1_raw.jpg" width = "100" /> |<img src="./data/t2i_2_raw.jpg" width = "100" /> |<img src="./data/t2i_3_raw.jpg" width = "100" /> |<img src="./data/t2i_4_raw.jpg" width = "100" /> |<img src="./data/t2i_5_raw.jpg" width = "100" /> |<img src="./data/t2i_6_raw.jpg" width = "100" /> |
 <img src="./data/Djy.png" width = "100" /> | <img src="./data/t2i_1_id.jpg" width = "100" /> |<img src="./data/t2i_2_id.jpg" width = "100" /> |<img src="./data/t2i_3_id.jpg" width = "100" /> |<img src="./data/t2i_4_id.jpg" width = "100" /> |<img src="./data/t2i_5_id.jpg" width = "100" /> |<img src="./data/t2i_6_id.jpg" width = "100" /> |
-
-
-| ID | style + ' a prince wearing headphones and a red and glod armor, reading a book and sitting on bench in front of Eiffel Tower'  |
-|:-------------------------:|:-------------------------:|
-<img src="./data/my.png" width = "134" /> | <img src="./data/my_longprompt_1.jpg" width = "326" />  <img src="./data/my_longprompt_2.jpg" width = "326" /> 
 
 
 ## Higher Consistency
