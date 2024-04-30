@@ -22,7 +22,7 @@ When in Rome, do as the Romans do.
 
 | 'a prince wearing headphones and a red and glod armor, reading a book and sitting on bench in front of Eiffel Tower'  |
 |:-------------------------:|
-<img src="./data/my_longprompt_1.jpg" width = "400" />  <img src="./data/my_longprompt_2.jpg" width = "400" /> 
+<img src="./data/my_longprompt_1.jpg" width = "390" />  <img src="./data/my_longprompt_2.jpg" width = "390" /> 
 
 
 ## More Stable Layout
