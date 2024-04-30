@@ -15,14 +15,14 @@ When in Rome, do as the Romans do.
 
 
 ## Stronger Editability
-| ID | + 'sunglasses' | + 'girl' | + 'young' | + 'old' | 
+| ID | 'sunglasses' | 'girl' | 'young' | 'old' | 
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 <img src="./data/my.png" width = "100" /> | <img src="./data/my_sunglasses.jpg" width = "150" /> | <img src="./data/my_girl.jpg" width = "150" /> | <img src="./data/my_young.jpg" width = "150" /> | <img src="./data/my_old.jpg" width = "150" />
 
 
-| ID | style + ' a prince wearing headphones and a red and glod armor, reading a book and sitting on bench in front of Eiffel Tower'  |
-|:-------------------------:|:-------------------------:|
-<img src="./data/my.png" width = "134" /> | <img src="./data/my_longprompt_1.jpg" width = "326" />  <img src="./data/my_longprompt_2.jpg" width = "326" /> 
+| 'a prince wearing headphones and a red and glod armor, reading a book and sitting on bench in front of Eiffel Tower'  |
+|:-------------------------:|
+<img src="./data/my_longprompt_1.jpg" width = "350" />  <img src="./data/my_longprompt_2.jpg" width = "350" /> 
 
 
 ## More Stable Layout
