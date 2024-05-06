@@ -42,7 +42,7 @@ InstantID | ❌ | <img src="./data/morecomfortablefacialsaturation_iid_1.jpg" wi
 InstantID- <br>  Rome | ✅ | <img src="./data/morecomfortablefacialsaturation_iidrm_1.jpg" width = "140" /> <img src="./data/morecomfortablefacialsaturation_iidrm_2.jpg" width = "140" /> <img src="./data/morecomfortablefacialsaturation_iidrm_3.jpg" width = "140" /> <img src="./data/morecomfortablefacialsaturation_iidrm_4.jpg" width = "140" /> |
 
 
-| <img src="./data/musk_resize.jpeg" width = "60" /> | Face Landmark | Style |
+| <img src="./data/musk_resize.jpeg" width = "60" /> | Face <br> Landmark | Style |
 |:-----:|:-----:|:-----:|
 InstantID |  | <img src="./data/betterbodycomposition_iid_1.jpg" width = "140" />  <img src="./data/betterbodycomposition_iid_2.jpg" width = "140" />  <img src="./data/betterbodycomposition_iid_3.jpg" width = "140" />  <img src="./data/betterbodycomposition_iid_4.jpg" width = "140" /> |
 InstantID- <br>  Rome | self- <br> adaptive | <img src="./data/betterbodycomposition_iidrm_1.jpg" width = "140" />  <img src="./data/betterbodycomposition_iidrm_2.jpg" width = "140" />  <img src="./data/betterbodycomposition_iidrm_3.jpg" width = "140" />  <img src="./data/betterbodycomposition_iidrm_4.jpg" width = "140" /> |
