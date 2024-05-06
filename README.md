@@ -32,6 +32,11 @@ When in Rome, do as the Romans do.
 Unless otherwise specified, the base model is [YamerMIX-V8](https://civitai.com/models/84040?modelVersionId=196039).
 
 
+## Better Body Composition
+| ID | InstantID ❌ | InstantID-Rome ✅ | InstantID ❌ | InstantID-Rome ✅ | 
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+<img src="./data/musk_resize.jpeg" width = "100" /> | <img src="./data/musk_resize.jpeg" width = "100" /> | <img src="./data/musk_resize.jpeg" width = "100" /> | <img src="./data/musk_resize.jpeg" width = "100" /> | <img src="./data/musk_resize.jpeg" width = "100" /> | 
+
 ## Stronger Editability
 | ID | 'sunglasses' | 'girl' | 'young' | 'old' | 
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
