@@ -15,17 +15,17 @@ When in Rome, do as the Romans do.
 
 # Characteristic
 
-* 💃 Better Body Composition.
+* 💃  Better Body Composition.
 
-* 🎨 Better Saturation.
+* 🎨  Better Saturation.
 
-* ✏️ Stronger Editability.
+* ✏️  Stronger Editability.
 
-* 📐 More Stable Layout.
+* 📐  More Stable Layout.
 
-* 🇺🇳 Higher Consistency.
+* 🇺🇳  Higher Consistency.
 
-* 📷 More Realistic.
+* 📷  More Realistic.
 
 Unless otherwise specified, the base model is [YamerMIX-V8](https://civitai.com/models/84040?modelVersionId=196039).
 
