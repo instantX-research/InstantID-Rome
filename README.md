@@ -48,7 +48,7 @@ InstantID sometimes increases the saturation of the facial image to an uncomfort
 
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 
-<!-- <img src="./data/yann-lecun_resize.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iid_1.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iidrm_1.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iid_2.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iidrm_2.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iid_3.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iidrm_3.jpg" width = "100" /> |  -->
+<img src="./data/yann-lecun_resize.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iid_1.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iidrm_1.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iid_2.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iidrm_2.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iid_3.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iidrm_3.jpg" width = "100" /> | 
 
 ## Stronger Editability
 | ID | 'sunglasses' | 'girl' | 'young' | 'old' | 
