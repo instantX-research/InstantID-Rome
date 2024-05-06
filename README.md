@@ -15,6 +15,8 @@ When in Rome, do as the Romans do.
 
 # Characteristic
 
+[Stronger Editability](##Stronger Editability)
+
 Stronger Editability.
 
 More Stable Layout.
