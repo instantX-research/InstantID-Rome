@@ -85,6 +85,7 @@ While InstantID is unable to achieve this, InstantID-Rome is capable of doing so
 
 ## More Realistic
 While InstantID is unable to achieve this, InstantID-Rome is capable of doing so.
+
 base model: [RealVisXL V4.0](https://civitai.com/models/139562/realvisxl-v40?modelVersionId=344487)
 |ID| Realistic Style  |
 |:-------------------------:|:-------------------------:|
@@ -94,6 +95,7 @@ base model: [RealVisXL V4.0](https://civitai.com/models/139562/realvisxl-v40?mod
 
 ## Larger Range of Image Scale
 While InstantID is unable to achieve this, InstantID-Rome is capable of doing so.
+
 base model: [RealVisXL V4.0](https://civitai.com/models/139562/realvisxl-v40?modelVersionId=344487)
 |ID|  Different Image Scale |
 |:-------------------------:|:-------------------------:|
