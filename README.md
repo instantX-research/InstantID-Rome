@@ -46,8 +46,8 @@ InstantID sometimes increases the saturation of the facial image to an uncomfort
 
 || self-adaptive | Style |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-InstantID | ❌ | <img src="./data/morecomfortablefacialsaturation_iid_1.jpg" width = "200" /> <img src="./data/morecomfortablefacialsaturation_iid_2.jpg" width = "200" /> <img src="./data/morecomfortablefacialsaturation_iid_3.jpg" width = "200" /> <img src="./data/morecomfortablefacialsaturation_iid_4.jpg" width = "200" /> |
-InstantID-Rome | ✅ | <img src="./data/morecomfortablefacialsaturation_iidrm_1.jpg" width = "200" /> <img src="./data/morecomfortablefacialsaturation_iidrm_2.jpg" width = "200" /> <img src="./data/morecomfortablefacialsaturation_iidrm_3.jpg" width = "200" /> <img src="./data/morecomfortablefacialsaturation_iidrm_4.jpg" width = "200" /> |
+InstantID | ❌ | <img src="./data/morecomfortablefacialsaturation_iid_1.jpg" width = "150" /> <img src="./data/morecomfortablefacialsaturation_iid_2.jpg" width = "150" /> <img src="./data/morecomfortablefacialsaturation_iid_3.jpg" width = "150" /> <img src="./data/morecomfortablefacialsaturation_iid_4.jpg" width = "150" /> |
+InstantID-Rome | ✅ | <img src="./data/morecomfortablefacialsaturation_iidrm_1.jpg" width = "150" /> <img src="./data/morecomfortablefacialsaturation_iidrm_2.jpg" width = "150" /> <img src="./data/morecomfortablefacialsaturation_iidrm_3.jpg" width = "150" /> <img src="./data/morecomfortablefacialsaturation_iidrm_4.jpg" width = "150" /> |
 
 
 <!-- 
