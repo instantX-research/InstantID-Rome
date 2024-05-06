@@ -71,7 +71,7 @@ base model: [RealVisXL V4.0](https://civitai.com/models/139562/realvisxl-v40?mod
 base model: [RealVisXL V4.0](https://civitai.com/models/139562/realvisxl-v40?modelVersionId=344487)
 |ID|   |
 |:-------------------------:|:-------------------------:|
-<img src="./data/Johnson.png" width = "200" /> | <img src="./data/largerange_Johnson_3.jpg" width = "510" /> <img src="./data/largerange_Johnson_1.jpg" width = "400" />  <img src="./data/largerange_Johnson_2.jpg" height = "400" /> 
+<img src="./data/Johnson.png" width = "200" /> | <img src="./data/largerange_Johnson_3.jpg" width = "600" /> <img src="./data/largerange_Johnson_1.jpg" width = "500" />  <img src="./data/largerange_Johnson_2.jpg" height = "500" /> 
 
 
 coming ...
