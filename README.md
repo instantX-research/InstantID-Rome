@@ -15,11 +15,11 @@ When in Rome, do as the Romans do.
 
 # Characteristic
 
-* Better Body Composition.
+* 💃Better Body Composition.
 
-* Better Saturation.
+* 🎨Better Saturation.
 
-* Stronger Editability.
+* ✏️Stronger Editability.
 
 * More Stable Layout.
 
