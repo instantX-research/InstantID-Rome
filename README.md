@@ -44,6 +44,6 @@ T2I w/o ID |<img src="./data/t2i_1_raw.jpg" width = "100" /> |<img src="./data/t
 ## More Realistic
 |ID| Realistic Style |
 |:-------------------------:|:-------------------------:|
-<img src="./data/ym.png" width = "100" /> | <img src="./data/realistic_ym_1.jpg" width = "150" /> <img src="./data/realistic_ym_2.jpg" width = "150" /> <img src="./data/realistic_ym_3.jpg" width = "150" /> <img src="./data/realistic_ym_4.jpg" width = "150" />  <img src="./data/realistic_ym_5.jpg" width = "150" />  <img src="./data/realistic_ym_6.jpg" width = "150" /> 
+<img src="./data/ym.png" width = "100" /> | <img src="./data/realistic_ym_1.jpg" width = "125" /> <img src="./data/realistic_ym_2.jpg" width = "125" /> <img src="./data/realistic_ym_3.jpg" width = "125" /> <img src="./data/realistic_ym_4.jpg" width = "125" />  <img src="./data/realistic_ym_5.jpg" width = "125" />  <img src="./data/realistic_ym_6.jpg" width = "125" /> 
 
 coming ...
