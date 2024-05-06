@@ -23,7 +23,7 @@ When in Rome, do as the Romans do.
 
 * 📐 More Stable Layout.
 
-* Higher Consistency.
+* 🇺🇳 Higher Consistency.
 
 * 📷 More Realistic.
 
