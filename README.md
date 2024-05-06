@@ -27,7 +27,7 @@ When in Rome, do as the Romans do.
 
 * 📷  [More Realistic](#more-realistic).
 
-* 🤔  [Larger Range of Image Size](#larger-range-of-image-size)
+* 🤔  [Larger Range of Image Scale](#larger-range-of-image-scale)
 
 Unless otherwise specified, the base model is [YamerMIX-V8](https://civitai.com/models/84040?modelVersionId=196039).
 
@@ -67,9 +67,9 @@ base model: [RealVisXL V4.0](https://civitai.com/models/139562/realvisxl-v40?mod
 <img src="./data/Djy.png" width = "100" /> | <img src="./data/realistic_Djy_1.jpg" width = "130" /> <img src="./data/realistic_Djy_2.jpg" width = "130" /> <img src="./data/realistic_Djy_3_new.jpg" width = "130" /> <img src="./data/realistic_Djy_4.jpg" width = "130" /> <img src="./data/realistic_Djy_5.jpg" width = "130" />
 
 
-## Larger Range of Image Size
+## Larger Range of Image Scale
 base model: [RealVisXL V4.0](https://civitai.com/models/139562/realvisxl-v40?modelVersionId=344487)
-|ID|   |
+|ID|  Different Image Scale |
 |:-------------------------:|:-------------------------:|
 <img src="./data/Johnson.png" width = "200" /> | <img src="./data/largerange_Johnson_3.jpg" width = "660" /> <img src="./data/largerange_Johnson_1.jpg" width = "524" />  <img src="./data/largerange_Johnson_2.jpg" height = "524" /> 
 
