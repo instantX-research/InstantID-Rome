@@ -13,6 +13,18 @@ When in Rome, do as the Romans do.
 </div>
 
 
+# Characteristic
+
+Stronger Editability.
+
+More Stable Layout.
+
+Higher Consistency.
+
+More Realistic.
+
+Unless otherwise specified, the base model is [YamerMIX-V8](https://civitai.com/models/84040?modelVersionId=196039).
+
 
 ## Stronger Editability
 | ID | 'sunglasses' | 'girl' | 'young' | 'old' | 
@@ -42,7 +54,8 @@ T2I w/o ID |<img src="./data/t2i_1_raw.jpg" width = "108" /> <img src="./data/t2
 
 
 ## More Realistic
-|ID| Realistic Style |
+base model: [RealVisXL V4.0](https://civitai.com/models/139562/realvisxl-v40?modelVersionId=344487)
+|ID| Realistic Style  |
 |:-------------------------:|:-------------------------:|
 <img src="./data/ym.png" width = "100" /> | <img src="./data/realistic_ym_1.jpg" width = "130" /> <img src="./data/realistic_ym_2.jpg" width = "130" /> <img src="./data/realistic_ym_3.jpg" width = "130" /> <img src="./data/realistic_ym_4.jpg" width = "130" />  <img src="./data/realistic_ym_5.jpg" width = "130" /> 
 
