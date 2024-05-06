@@ -17,7 +17,7 @@ When in Rome, do as the Romans do.
 
 * 💃  Better Body Composition.
 
-* 🎨  Better Saturation.
+* 🎨  More Comfortable Saturation.
 
 * ✏️  Stronger Editability.
 
@@ -63,5 +63,14 @@ base model: [RealVisXL V4.0](https://civitai.com/models/139562/realvisxl-v40?mod
 |:-------------------------:|:-------------------------:|
 <img src="./data/ym_2.jpg" width = "100" /> | <img src="./data/realistic_ym_1.jpg" width = "130" /> <img src="./data/realistic_ym_2.jpg" width = "130" /> <img src="./data/realistic_ym_3.jpg" width = "130" /> <img src="./data/realistic_ym_4.jpg" width = "130" />  <img src="./data/realistic_ym_5.jpg" width = "130" /> 
 <img src="./data/Djy.png" width = "100" /> | <img src="./data/realistic_Djy_1.jpg" width = "130" /> <img src="./data/realistic_Djy_2.jpg" width = "130" /> <img src="./data/realistic_Djy_3_new.jpg" width = "130" /> <img src="./data/realistic_Djy_4.jpg" width = "130" /> <img src="./data/realistic_Djy_5.jpg" width = "130" />
+
+
+## Larger Range of Image Size
+base model: [RealVisXL V4.0](https://civitai.com/models/139562/realvisxl-v40?modelVersionId=344487)
+|ID|   |
+|:-------------------------:|:-------------------------:|
+<img src="./data/Johnson.png" width = "100" /> | <img src="./data/largerange_Johnson_3.jpg" width = "500" /> 
+<img src="./data/largerange_Johnson_1.jpg" width = "400" />  <img src="./data/largerange_Johnson_2.jpg" height = "400" /> 
+
 
 coming ...
