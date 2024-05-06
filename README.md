@@ -15,7 +15,10 @@ When in Rome, do as the Romans do.
 
 # Characteristic
 
-[Stronger Editability](##StrongerEditability)
+| 目录 | |
+| ---- | |
+| [第一节](#section1) |
+| [第二节](#section2) |
 
 Stronger Editability.
 
