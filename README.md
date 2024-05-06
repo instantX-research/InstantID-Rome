@@ -36,7 +36,7 @@ Unless otherwise specified, the base model is [YamerMIX-V8](https://civitai.com/
 Face key points is Not necessary in InstantID-Rome, so InstantID-Rome can fully comply with the body composition results of raw T2I.
 
 
-| ID | Face 🎭 | InstantID <br> with 🎭 | InstantID-Rome <br> w/o 🎭 <br> self-adaptive face | InstantID <br> with 🎭 | InstantID-Rome <br> w/o 🎭 <br> self-adaptive face | 
+| ID | Face 🎭 | InstantID <br> with 🎭 | InstantID-Rome <br> w/o 🎭 <br> self-adaptive | InstantID <br> with 🎭 | InstantID-Rome <br> w/o 🎭 <br> self-adaptive | 
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 <img src="./data/musk_resize.jpeg" width = "100" /> | <img src="./data/bad_face_kps.png" width = "150" /> |<img src="./data/betterbodycomposition_iid_1.jpg" width = "150" /> | <img src="./data/betterbodycomposition_iidrm_1.jpg" width = "150" /> | <img src="./data/betterbodycomposition_iid_2.jpg" width = "150" /> | <img src="./data/betterbodycomposition_iidrm_2.jpg" width = "150" /> | 
 
