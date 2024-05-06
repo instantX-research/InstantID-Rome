@@ -33,9 +33,11 @@ Unless otherwise specified, the base model is [YamerMIX-V8](https://civitai.com/
 
 
 ## Better Body Composition
-| ID | InstantID ❌ | InstantID-Rome ✅ | InstantID ❌ | InstantID-Rome ✅ | 
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-<img src="./data/musk_resize.jpeg" width = "100" /> | <img src="./data/musk_resize.jpeg" width = "150" /> | <img src="./data/musk_resize.jpeg" width = "150" /> | <img src="./data/musk_resize.jpeg" width = "150" /> | <img src="./data/musk_resize.jpeg" width = "150" /> | 
+Face key points is Not necessary in InstantID-Rome, so InstantID-Rome can fully comply with the body composition results of T2I.
+
+| ID | Face Key Points | InstantID ❌ | InstantID-Rome ✅ | InstantID ❌ | InstantID-Rome ✅ | 
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+<img src="./data/musk_resize.jpeg" width = "100" /> | <img src="./data/bad_face_kps.png" width = "100" /> |<img src="./data/betterbodycomposition_iid_1.jpg" width = "150" /> | <img src="./data/betterbodycomposition_iid_1.jpg" width = "150" /> | <img src="./data/betterbodycomposition_iid_2.jpg" width = "150" /> | <img src="./data/betterbodycomposition_iid_2.jpg" width = "150" /> | 
 
 ## Stronger Editability
 | ID | 'sunglasses' | 'girl' | 'young' | 'old' | 
