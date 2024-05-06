@@ -30,7 +30,7 @@ When in Rome, do as the Romans do.
 Unless otherwise specified, the base model is [YamerMIX-V8](https://civitai.com/models/84040?modelVersionId=196039).
 
 
-## Stronger Editability {#stronger-editability}
+## Stronger Editability
 | ID | 'sunglasses' | 'girl' | 'young' | 'old' | 
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 <img src="./data/my.png" width = "100" /> | <img src="./data/my_sunglasses.jpg" width = "150" /> | <img src="./data/my_girl.jpg" width = "150" /> | <img src="./data/my_young.jpg" width = "150" /> | <img src="./data/my_old.jpg" width = "150" />
