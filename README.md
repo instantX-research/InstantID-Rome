@@ -54,6 +54,7 @@ InstantID- <br>  Rome | ✅ | <img src="./data/morecomfortablefacialsaturation_i
 
 
 ## Stronger Editability
+While InstantID is unable to achieve this, InstantID-Rome is capable of doing so.
 | ID | 'sunglasses' | 'girl' | 'young' | 'old' | 
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 <img src="./data/my.png" width = "100" /> | <img src="./data/my_sunglasses.jpg" width = "150" /> | <img src="./data/my_girl.jpg" width = "150" /> | <img src="./data/my_young.jpg" width = "150" /> | <img src="./data/my_old.jpg" width = "150" />
@@ -65,6 +66,7 @@ InstantID- <br>  Rome | ✅ | <img src="./data/morecomfortablefacialsaturation_i
 
 
 ## More Stable Layout
+While InstantID is unable to achieve this, InstantID-Rome is capable of doing so.
 || Style |
 |:-------------------------:|:-------------------------:|
 T2I w/o ID |<img src="./data/t2i_1_raw.jpg" width = "108" /> <img src="./data/t2i_2_raw.jpg" width = "108" /> <img src="./data/t2i_3_raw.jpg" width = "108" /> <img src="./data/t2i_4_raw.jpg" width = "108" /> <img src="./data/t2i_5_raw.jpg" width = "108" /> <img src="./data/t2i_6_raw.jpg" width = "108" /> |
@@ -72,6 +74,7 @@ T2I w/o ID |<img src="./data/t2i_1_raw.jpg" width = "108" /> <img src="./data/t2
 
 
 ## Higher Consistency
+While InstantID is unable to achieve this, InstantID-Rome is capable of doing so.
 | sunglasses | cap |
 |:-------------------------:|:-------------------------:|
 <img src="./data/fe342e172f4f79f0f18e0cfecbf86de27a6058e329240b4bfdb73fb5.jpg" width = "425" /> | <img src="./data/2b008e52c4a66093b4aa7697a38e7ab6b21a898dcb43dd75a088d6a6.jpg" width = "425" />
@@ -81,6 +84,7 @@ T2I w/o ID |<img src="./data/t2i_1_raw.jpg" width = "108" /> <img src="./data/t2
 
 
 ## More Realistic
+While InstantID is unable to achieve this, InstantID-Rome is capable of doing so.
 base model: [RealVisXL V4.0](https://civitai.com/models/139562/realvisxl-v40?modelVersionId=344487)
 |ID| Realistic Style  |
 |:-------------------------:|:-------------------------:|
@@ -89,6 +93,7 @@ base model: [RealVisXL V4.0](https://civitai.com/models/139562/realvisxl-v40?mod
 
 
 ## Larger Range of Image Scale
+While InstantID is unable to achieve this, InstantID-Rome is capable of doing so.
 base model: [RealVisXL V4.0](https://civitai.com/models/139562/realvisxl-v40?modelVersionId=344487)
 |ID|  Different Image Scale |
 |:-------------------------:|:-------------------------:|
