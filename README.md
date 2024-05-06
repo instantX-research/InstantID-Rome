@@ -35,10 +35,10 @@ Unless otherwise specified, the base model is [YamerMIX-V8](https://civitai.com/
 ## Better Body Composition
 Face key points is Not necessary in InstantID-Rome. InstantID-Rome can fully comply with the body composition of raw T2I.
 
-| <img src="./data/musk_resize.jpg" width = "60" /> | Face Landmark | Style |
+| <img src="./data/musk_resize.jpeg" width = "60" /> | Face Landmark | Style |
 |:-----:|:-----:|:-----:|
-InstantID | <img src="./data/bad_face_kps.png" width = "100" /> | <img src="./data/betterbodycomposition_iidrm_1.jpg" width = "150" /> | <img src="./data/betterbodycomposition_iidrm_2.jpg" width = "150" /> | <img src="./data/betterbodycomposition_iidrm_3.jpg" width = "150" /> | <img src="./data/betterbodycomposition_iidrm_4.jpg" width = "150" /> |
-InstantID-Rome | self- <br> adaptive | <img src="./data/betterbodycomposition_iidrm_1.jpg" width = "150" /> | <img src="./data/betterbodycomposition_iidrm_2.jpg" width = "150" /> | <img src="./data/betterbodycomposition_iidrm_3.jpg" width = "150" /> | <img src="./data/betterbodycomposition_iidrm_4.jpg" width = "150" /> |
+InstantID | <img src="./data/bad_face_kps.png" width = "100" /> | <img src="./data/betterbodycomposition_iidrm_1.jpg" width = "150" />  <img src="./data/betterbodycomposition_iidrm_2.jpg" width = "150" />  <img src="./data/betterbodycomposition_iidrm_3.jpg" width = "150" />  <img src="./data/betterbodycomposition_iidrm_4.jpg" width = "150" /> |
+InstantID-Rome | self- <br> adaptive | <img src="./data/betterbodycomposition_iidrm_1.jpg" width = "150" />  <img src="./data/betterbodycomposition_iidrm_2.jpg" width = "150" />  <img src="./data/betterbodycomposition_iidrm_3.jpg" width = "150" />  <img src="./data/betterbodycomposition_iidrm_4.jpg" width = "150" /> |
 
 
 
