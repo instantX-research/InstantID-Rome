@@ -21,7 +21,7 @@ When in Rome, do as the Romans do.
 
 * ✏️  [Stronger Editability](#stronger-editability).
 
-* 📐  [More Stable Layout](#more-stablelayout).
+* 📐  [More Stable Layout](#more-stable-layout).
 
 * 🇺🇳  [Higher Consistency](#higher-consistency).
 
