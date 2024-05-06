@@ -35,6 +35,8 @@ Unless otherwise specified, the base model is [YamerMIX-V8](https://civitai.com/
 ## Better Body Composition
 Face key points is Not necessary in InstantID-Rome. InstantID-Rome can fully comply with the body composition results of raw T2I.
 
+
+
 | ID | Face 🎭 | InstantID <br> with 🎭 | InstantID-Rome <br> self-adaptive | InstantID <br> with 🎭 | InstantID-Rome <br> self-adaptive | 
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 <img src="./data/musk_resize.jpeg" width = "100" /> | <img src="./data/bad_face_kps.png" width = "100" /> |<img src="./data/betterbodycomposition_iid_1.jpg" width = "150" /> | <img src="./data/betterbodycomposition_iidrm_1.jpg" width = "150" /> | <img src="./data/betterbodycomposition_iid_2.jpg" width = "150" /> | <img src="./data/betterbodycomposition_iidrm_2.jpg" width = "150" /> | 
@@ -44,7 +46,7 @@ Face key points is Not necessary in InstantID-Rome. InstantID-Rome can fully com
 InstantID sometimes increases the saturation of the facial image to an uncomfortable level. This issue is particularly noticeable in the realistic style.  InstantID-Rome has significantly resolved this issue. 
 
 
-|| self- <br> adaptive <br> saturation | Style |
+| <img src="./data/musk_resize.jpeg" width = "100" /> | self- <br> adaptive | Style |
 |:-----:|:-----:|:-----:|
 InstantID | ❌ | <img src="./data/morecomfortablefacialsaturation_iid_1.jpg" width = "140" /> <img src="./data/morecomfortablefacialsaturation_iid_2.jpg" width = "140" /> <img src="./data/morecomfortablefacialsaturation_iid_3.jpg" width = "140" /> <img src="./data/morecomfortablefacialsaturation_iid_4.jpg" width = "140" /> |
 InstantID- <br>  Rome | ✅ | <img src="./data/morecomfortablefacialsaturation_iidrm_1.jpg" width = "140" /> <img src="./data/morecomfortablefacialsaturation_iidrm_2.jpg" width = "140" /> <img src="./data/morecomfortablefacialsaturation_iidrm_3.jpg" width = "140" /> <img src="./data/morecomfortablefacialsaturation_iidrm_4.jpg" width = "140" /> |
