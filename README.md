@@ -21,11 +21,13 @@ When in Rome, do as the Romans do.
 
 * ✏️  [Stronger Editability](#stronger-editability).
 
-* 📐  More Stable Layout.
+* 📐  [More Stable Layout](#more-stablelayout).
 
-* 🇺🇳  Higher Consistency.
+* 🇺🇳  [Higher Consistency](#higher-consistency).
 
-* 📷  More Realistic.
+* 📷  [More Realistic](#more-realistic).
+
+* 🤔  [Larger Range of Image Size](#larger-range-of-image-size)
 
 Unless otherwise specified, the base model is [YamerMIX-V8](https://civitai.com/models/84040?modelVersionId=196039).
 
