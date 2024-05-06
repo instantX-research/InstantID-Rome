@@ -15,18 +15,13 @@ When in Rome, do as the Romans do.
 
 # Characteristic
 
-| 目录 | |
-| ---- | |
-| [第一节](#section1) |
-| [第二节](#section2) |
+* Stronger Editability.
 
-Stronger Editability.
+* More Stable Layout.
 
-More Stable Layout.
+* Higher Consistency.
 
-Higher Consistency.
-
-More Realistic.
+* More Realistic.
 
 Unless otherwise specified, the base model is [YamerMIX-V8](https://civitai.com/models/84040?modelVersionId=196039).
 
