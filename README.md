@@ -15,7 +15,7 @@ When in Rome, do as the Romans do.
 
 # Characteristic
 
-[Stronger Editability](##Stronger Editability)
+[Stronger Editability](##StrongerEditability)
 
 Stronger Editability.
 
