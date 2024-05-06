@@ -37,11 +37,11 @@ Face key points is Not necessary in InstantID-Rome. InstantID-Rome can fully com
 
 | <img src="./data/musk_resize.jpeg" width = "60" /> | Face Landmark | Style |
 |:-----:|:-----:|:-----:|
-InstantID | <img src="./data/bad_face_kps.png" width = "60" /> | <img src="./data/betterbodycomposition_iid_1.jpg" width = "140" />  <img src="./data/betterbodycomposition_iid_2.jpg" width = "140" />  <img src="./data/betterbodycomposition_iid_3.jpg" width = "140" />  <img src="./data/betterbodycomposition_iid_4.jpg" width = "140" /> |
+InstantID |  | <img src="./data/betterbodycomposition_iid_1.jpg" width = "140" />  <img src="./data/betterbodycomposition_iid_2.jpg" width = "140" />  <img src="./data/betterbodycomposition_iid_3.jpg" width = "140" />  <img src="./data/betterbodycomposition_iid_4.jpg" width = "140" /> |
 InstantID- <br>  Rome | self- <br> adaptive | <img src="./data/betterbodycomposition_iidrm_1.jpg" width = "140" />  <img src="./data/betterbodycomposition_iidrm_2.jpg" width = "140" />  <img src="./data/betterbodycomposition_iidrm_3.jpg" width = "140" />  <img src="./data/betterbodycomposition_iidrm_4.jpg" width = "140" /> |
 
 
-
+<!-- <img src="./data/bad_face_kps.png" width = "60" /> -->
 
 ## More Comfortable Facial Saturation
 InstantID sometimes increases the saturation of the facial image to an uncomfortable level. This issue is particularly noticeable in the realistic style.  InstantID-Rome has significantly resolved this issue. 
