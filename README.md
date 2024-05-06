@@ -26,10 +26,10 @@ When in Rome, do as the Romans do.
 
 
 ## More Stable Layout
-|| style 1 | style 2 | style 3 | style 4 | style 5 | style 6 |
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-T2I w/o ID |<img src="./data/t2i_1_raw.jpg" width = "100" /> |<img src="./data/t2i_2_raw.jpg" width = "100" /> |<img src="./data/t2i_3_raw.jpg" width = "100" /> |<img src="./data/t2i_4_raw.jpg" width = "100" /> |<img src="./data/t2i_5_raw.jpg" width = "100" /> |<img src="./data/t2i_6_raw.jpg" width = "100" /> |
-<img src="./data/Djy.png" width = "100" /> | <img src="./data/t2i_1_id.jpg" width = "100" /> |<img src="./data/t2i_2_id.jpg" width = "100" /> |<img src="./data/t2i_3_id.jpg" width = "100" /> |<img src="./data/t2i_4_id.jpg" width = "100" /> |<img src="./data/t2i_5_id.jpg" width = "100" /> |<img src="./data/t2i_6_id.jpg" width = "100" /> |
+|| Style |
+|:-------------------------:|:-------------------------:|
+T2I w/o ID |<img src="./data/t2i_1_raw.jpg" width = "100" /> <img src="./data/t2i_2_raw.jpg" width = "100" /> <img src="./data/t2i_3_raw.jpg" width = "100" /> <img src="./data/t2i_4_raw.jpg" width = "100" /> <img src="./data/t2i_5_raw.jpg" width = "100" /> <img src="./data/t2i_6_raw.jpg" width = "100" /> |
+<img src="./data/Djy.png" width = "100" /> | <img src="./data/t2i_1_id.jpg" width = "100" /> <img src="./data/t2i_2_id.jpg" width = "100" /> <img src="./data/t2i_3_id.jpg" width = "100" /> <img src="./data/t2i_4_id.jpg" width = "100" /> <img src="./data/t2i_5_id.jpg" width = "100" /> <img src="./data/t2i_6_id.jpg" width = "100" /> |
 
 
 ## Higher Consistency
