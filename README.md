@@ -45,9 +45,7 @@ Face key points is Not necessary in InstantID-Rome. InstantID-Rome can fully com
 InstantID sometimes increases the saturation of the facial image to an uncomfortable level. This issue is particularly noticeable in the realistic style.  InstantID-Remo has significantly resolved this issue. 
 
 | ID | InstantID | InstantID-Rome | InstantID | InstantID-Rome | | InstantID | InstantID-Rome |
-
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-
 <img src="./data/yann-lecun_resize.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iid_1.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iidrm_1.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iid_2.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iidrm_2.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iid_3.jpg" width = "100" /> | <img src="./data/morecomfortablefacialsaturation_iidrm_3.jpg" width = "100" /> | 
 
 ## Stronger Editability
