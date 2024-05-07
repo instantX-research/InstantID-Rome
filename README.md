@@ -94,6 +94,7 @@ base model: [RealVisXL V4.0](https://civitai.com/models/139562/realvisxl-v40?mod
 <img src="./data/ym_2.jpg" width = "100" /> | <img src="./data/realistic_ym_1.jpg" width = "130" /> <img src="./data/realistic_ym_2.jpg" width = "130" /> <img src="./data/realistic_ym_3.jpg" width = "130" /> <img src="./data/realistic_ym_4.jpg" width = "130" />  <img src="./data/realistic_ym_5.jpg" width = "130" /> 
 <img src="./data/Djy.png" width = "100" /> | <img src="./data/realistic_Djy_1.jpg" width = "130" /> <img src="./data/realistic_Djy_2.jpg" width = "130" /> <img src="./data/realistic_Djy_3_new.jpg" width = "130" /> <img src="./data/realistic_Djy_4.jpg" width = "130" /> <img src="./data/realistic_Djy_5.jpg" width = "130" />
 <img src="./data/anne.png" width = "100" /> | <img src="./data/realistic_anne_1.jpg" width = "130" /> <img src="./data/realistic_anne_2.jpg" width = "130" /> <img src="./data/realistic_anne_3.jpg" width = "130" /> <img src="./data/realistic_anne_4.jpg" width = "130" /> <img src="./data/realistic_anne_5.jpg" width = "130" />
+
 我劝你收起你大胆的想法
 
 
