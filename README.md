@@ -108,6 +108,6 @@ base model: [RealVisXL V4.0](https://civitai.com/models/139562/realvisxl-v40?mod
 |ID| Raw RGB Channles | Raw Alpha Channels | Image with Alpha |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 <img src="./data/ym.png" width = "200" /> | <img src="./data/layerdiffusion_image_raw.jpg" width = "200" /> | <img src="./data/layerdiffusion_alpha.jpg" width = "200" /> | <img src="./data/layerdiffusion_image.png" width = "200" /> | 
-<img src="./data/Djy.png" width = "200" /> | <img src="./data/layerdiffusion_djy_image_raw.jpg" width = "200" /> | <img src="./data/layerdiffusion_djy_alpha.jpg" width = "200" /> | <img src="./data/layerdiffusion_djy_image.png" width = "200" /> | 
+<img src="./data/Djy.png" width = "200" /> | <img src="./data/layerdiffusion_Djy_image_raw.jpg" width = "200" /> | <img src="./data/layerdiffusion_Djy_alpha.jpg" width = "200" /> | <img src="./data/layerdiffusion_Djy_image.png" width = "200" /> | 
 
 coming ...
