@@ -29,6 +29,8 @@ When in Rome, do as the Romans do.
 
 * 🤔  [Larger Range of Image Scale](#larger-range-of-image-scale)
 
+* 🧩  [Support Layer Diffusion](#support-layer-diffusion)
+
 Unless otherwise specified, the base model is [YamerMIX-V8](https://civitai.com/models/84040?modelVersionId=196039).
 
 
@@ -101,5 +103,10 @@ base model: [RealVisXL V4.0](https://civitai.com/models/139562/realvisxl-v40?mod
 |:-------------------------:|:-------------------------:|
 <img src="./data/Johnson.png" width = "200" /> | <img src="./data/largerange_Johnson_3.jpg" width = "660" /> <img src="./data/largerange_Johnson_1.jpg" width = "524" />  <img src="./data/largerange_Johnson_2.jpg" height = "524" /> 
 
+
+## Support Layer Diffusion
+|ID| Raw RGB Channles | Raw Alpha Channels | Image with Alpha |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+<img src="./data/ym.png" width = "200" /> | <img src="./data/layerdiffusion_image_raw" width = "200" /> | <img src="./data/layerdiffusion_alpha.jpg" width = "200" /> | <img src="./data/layerdiffusion_image.png" width = "200" /> | 
 
 coming ...
